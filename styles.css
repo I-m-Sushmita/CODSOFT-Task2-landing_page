@@ -111,7 +111,7 @@ section{
 
 /* HOME SECTION CSS */
 .home{
-   background-image: url("/images/home-back.gif");
+   background-image: url("./home-back.gif");
     background-repeat: no-repeat;
     background-size: cover;
 background-position: center;
@@ -202,22 +202,22 @@ color:var(--cream);
     text-align: center;
 }
 .menu-item1{
-  background-image: url(/images/coffee-menu.avif);
+  background-image: url(./coffee-menu.avif);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .menu-item2{
-  background-image: url(/images/tea.webp);
+  background-image: url(./tea.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .menu-item3{
-  background-image: url(/images/snacks.jpg);
+  background-image: url(./snacks.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .menu-item4{
-  background-image: url(/images/smoothie.jpg);
+  background-image: url(./smoothie.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -300,7 +300,7 @@ text-shadow: 2px 2px 2px #12100e;
     padding: 20px 0;
     text-align: center;
     animation: fadeIn 2s ease-in;
-    background-image: url("/images/contact-img.avif");
+    background-image: url("./contact-img.avif");
     background-repeat: no-repeat;
     background-size: cover;
   }
