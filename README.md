@@ -16,7 +16,7 @@ This project is a modern and responsive website designed to demonstrate HTML str
 - [License](#license)
 - [Feedback](#feedback)
 ## Demo
-You can view a live demo of the website here ( https://i-m-sushmita.github.io/CODSOFT-Task2-landing_page/).
+You can view a live demo of the website here (https://i-m-sushmita.github.io/Cafe-landing-page/).
 ## Technologies Used
 
 - **HTML5**
